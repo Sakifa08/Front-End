@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# 🗑️ WasteSnap
+# 🗑️ Sortify
 
-**WasteSnap** adalah aplikasi web berbasis React yang membantu pengguna dalam memahami dan mengelola limbah melalui edukasi, kolaborasi, dan prediksi data. Aplikasi ini dikembangkan oleh tim pengembang yang terdiri dari beberapa kontributor, dan menggunakan Vite sebagai build tool.
+**Sortify** adalah aplikasi web berbasis React yang membantu pengguna dalam memahami dan mengelola limbah melalui edukasi, kolaborasi, dan prediksi data. Aplikasi ini dikembangkan oleh tim pengembang yang terdiri dari beberapa kontributor, dan menggunakan Vite sebagai build tool.
 
 ## 🚀 Fitur Utama
 
@@ -22,7 +22,7 @@
 ## 📁 Struktur Folder Penting
 
 ```
-WasteSnap-main/
+Sortify-main/
 ├── public/               # Aset publik seperti logo dan dataset CSV
 ├── src/
 │   ├── assets/           # Gambar dan ilustrasi
@@ -43,8 +43,8 @@ Pastikan Anda sudah menginstal [Node.js](https://nodejs.org/).
 
 ```bash
 # Clone repositori
-git clone https://github.com/nama-akun/WasteSnap.git
-cd WasteSnap-main
+git clone https://github.com/nama-akun/Sortify.git
+cd Sortify-main
 
 # Instal dependensi
 npm install
@@ -59,12 +59,13 @@ Aplikasi akan berjalan di `http://localhost:5173`.
 
 Tim pengembang:
 
-- Artur
-- Diva
-- Falen
-- Sakifa
-- Wildan
-- Yogi
+- Ayumi Syahirah Harahap (Front-end Developer)
+- Najwa Amanda (Back-end Developer)
+- Aliya Afifah Ginting (Machine Learning)
+- Diva Anggreini Harahap (Machine Learning)
+- Rizqi Siti Aulia (Back-end Developer)
+- Sakifa Indira Putri (Machine Learning)
+- Amelia Luthfiyah (Front-end Developer)
 
 ## 📄 Lisensi
 
